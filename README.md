@@ -26,7 +26,7 @@ apt install libgl1-mesa-glx
 ```
 
 ## Data
-Dataset is available in [Here](https://huggingface.co/datasets/jankin123/SIF-50K)!!!
+Dataset is available in [Here](https://huggingface.co/datasets/jankin123/SIF-50K) !!!
 ### SIF-50K
 Our constructed dataset SIF-50K will be uploaded. Include `SIF-50K-sampled-200.json` for SFT, `SIF-50K-sampled-200.json` for RL. Along with some RGB images and depth images from different sources. After downding, please place them under `data/` folder.
 ### Data Generation
