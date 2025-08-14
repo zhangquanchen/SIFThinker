@@ -87,7 +87,7 @@ The repo also benifits form [VLM-R1](https://github.com/om-ai-lab/VLM-R1), [Visu
 Thanks for their wonderful works.
 
 ## Bibtex
-If you find VisRL helpful for your work, please cite
+If you find SIFThinker helpful for your work, please cite
 
 ```
 @article{chen2025sifthinker,
