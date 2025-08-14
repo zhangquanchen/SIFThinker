@@ -85,3 +85,15 @@ We following [VisCoT](https://github.com/deepcs233/Visual-CoT/tree/main), [Spati
 The repo also benifits form [VLM-R1](https://github.com/om-ai-lab/VLM-R1), [Visual-CoT](https://github.com/deepcs233/Visual-CoT), [LLaVA](https://github.com/haotian-liu/LLaVA), [SpatialBot](https://github.com/BAAI-DCAI/SpatialBot), [SAT](https://github.com/arijitray1993/SAT), [V*](https://github.com/penghao-wu/vstar?tab=readme-ov-file#evaluation), [OVD-Eval](https://github.com/om-ai-lab/OVDEval), [trl](https://github.com/huggingface/trl), , [Cambrian](https://github.com/cambrian-mllm/cambrian).
 
 Thanks for their wonderful works.
+
+## Bibtex
+If you find VisRL helpful for your work, please cite
+
+```
+@article{chen2025sifthinker,
+  title={SIFThinker: Spatially-Aware Image Focus for Visual Reasoning},
+  author={Chen, Zhangquan and Zhao, Ruihui and Luo, Chuwei and Sun, Mingze and Yu, Xinlei and Kang, Yangyang and Huang, Ruqi},
+  journal={arXiv preprint arXiv:2508.06259},
+  year={2025}
+}
+```
