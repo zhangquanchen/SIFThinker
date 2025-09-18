@@ -47,12 +47,13 @@ Remark: Same operation can be used to the [TallyQA](ttps://github.com/manoja328/
 You can follow [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) for environment setup and SFT training. Our hyperparameter and setting has been included in `SFT` folder. Specifically:
 1. You can use the setting under `SFT/env` to setup the environment.
   ```bash
+conda create -n SFT python=3.10 -y && conda activate SFT
 cd SFT/env
 pip install -e ".[torch,metrics]" --no-build-isolation
 ```
-3. Run warm up training as:
+2. Run warm up training as:
 ```bash
-cd SFT
+cd ..
 llamafactory-cli train train_sft.yaml
 ```
 
