@@ -1,1 +1,7 @@
-# data/
+data/
+data_generation/
+evaluation/
+GRPO-SIF/
+package/
+scripts/
+SFT/
