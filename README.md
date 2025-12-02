@@ -1,4 +1,3 @@
-# SIFThinker: Spatially-Aware Image Focus for Visual Reasoning
 <div align="center">
 <h1>SIFThinker: Spatially-Aware Image Focus for Visual Reasoning</h1>
 
